@@ -10,6 +10,6 @@ console.log(x); // here x is undefined as it is not assigned by any value.
 
 console.log("we are printing b without declaring it");
 var a=10;
-var c="ramesh";
+var c="deepanshu";
 console.log(b); // here b is not declared and we are printing it so give not defined error.
 
